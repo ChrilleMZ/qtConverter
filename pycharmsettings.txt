@@ -1,0 +1,2 @@
+Program: qt_convert.bat
+Argument: $ProjectFileDir$ $FileDir$\$FileName$ $FileDir$\$FileNameWithoutAllExtensions$.py
